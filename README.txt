@@ -5,3 +5,4 @@ Dostępne atrybuty:
 - płeć
 - numer telefonu
 - miasto
+- nazwisko
