@@ -8,4 +8,9 @@ class Fake
     
     @instance
   end
+  
+  # Metoda, która losuje płeć
+  def gender
+    rand(2)
+  end
 end
