@@ -1,0 +1,1 @@
+Prosta klasa narzędziowa do generowania losowych danych osobowych.
