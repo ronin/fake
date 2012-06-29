@@ -11,6 +11,7 @@ class Fake
   
   def initialize
     @cities = File.readlines('data/cities.txt').map(&:strip)
+    @last_names = File.readlines('data/last_names.txt').map(&:strip)
     
     nil
   end
@@ -30,6 +31,11 @@ class Fake
     end
     
     number
+  end
+  
+  # Metoda, która generuje polskie nazwisko
+  def last_name
+    @last_names.sample
   end
   
   # Metoda, która generuje nazwę miasta
