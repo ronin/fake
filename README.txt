@@ -1,4 +1,4 @@
-Prosta klasa narzędziowa do generowania losowych danych osobowych.
+Prosta klasa narzędziowa do generowania losowych danych osobowych ludziów.
 
 Dostępne atrybuty:
 
