@@ -9,6 +9,12 @@ class Fake
     @instance
   end
   
+  def initialize
+    @cities = File.readlines('data/cities.txt').map(&:strip)
+    
+    nil
+  end
+  
   # Metoda, która losuje płeć
   def gender
     rand(2)
@@ -24,5 +30,10 @@ class Fake
     end
     
     number
+  end
+  
+  # Metoda, która generuje nazwę miasta
+  def city
+    @cities.sample
   end
 end
