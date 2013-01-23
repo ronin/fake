@@ -318,7 +318,6 @@ Krasnobród
 Krasnystaw
 Kraśnik
 Krobia
-Krombachy
 Krosno
 Krosno Odrzańskie
 Krośniewice
@@ -338,7 +337,6 @@ Kunów
 Kutno
 Kuźnia Raciborska
 Kwidzyn
-Latanowce
 Lądek-Zdrój
 Legionowo
 Legnica
@@ -629,7 +627,6 @@ Ropczyce
 Różan
 Ruciane-Nida
 Ruda Śląska
-Rudniany
 Rudnik nad Sanem
 Rumia
 Rybnik
