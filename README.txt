@@ -1,4 +1,4 @@
-Fake. Prosta klasa narzędziowa do generowania losowych danych osobowych ludziów.
+Fake. Prosta klasa narzędziowa do generowania losowych danych osobowych ludzi.
 
 Dostępne atrybuty:
 
